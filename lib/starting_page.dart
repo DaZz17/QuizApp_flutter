@@ -25,7 +25,7 @@ class StartingContainer extends StatelessWidget {
             style: GoogleFonts.lato(
                 fontSize: 30,
                 fontWeight: FontWeight.bold,
-                color: Color.fromARGB(255, 174, 167, 214)),
+                color: const Color.fromARGB(255, 174, 167, 214)),
           ),
           const SizedBox(
             height: 30,

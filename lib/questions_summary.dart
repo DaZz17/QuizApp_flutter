@@ -50,7 +50,7 @@ class QuestionSummary extends StatelessWidget {
                       Text(
                         data['user_answer'] as String,
                         style: const TextStyle(
-                            color: const Color.fromARGB(255, 249, 133, 241)),
+                            color:  Color.fromARGB(255, 249, 133, 241)),
                       ),
                       const SizedBox(
                         height: 5,
